@@ -1,0 +1,1 @@
+perl open_candra.pl GENERAL /media/LUN4/prajish/celline/prajesh/P4983/onco_output/candra/candra_input > /media/LUN4/prajish/celline/prajesh/P4983/onco_output/candra/candra_output
